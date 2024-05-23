@@ -2,7 +2,7 @@
 
 namespace App\Output;
 
-use App\Output\Concerns\InteractsWithSymbols;
+use App\Output\Concerns\InteractsWithSymbols;qsqsqs
 use PhpCsFixer\FixerFileProcessedEvent;
 use Symfony\Component\Console\Terminal;
 
